@@ -1,1 +1,1 @@
-# fMRI_Scripts
+# Some useful scripts for fMRI data analysis
