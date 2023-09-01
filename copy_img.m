@@ -4,7 +4,7 @@ clc
 %数据路径
 DataDir = 'G:\processing\';
 
-%存放一节结果路径
+%存放一阶结果路径
 DestDir = 'G:\processing\1stLevel\';
 
 %%被试编号
